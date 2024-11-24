@@ -1,0 +1,19 @@
+# Ignore virtual environment
+venv/
+
+# Ignore configuration files with sensitive data
+*.pyc
+__pycache__/
+
+# Ignore environment variable files
+.env
+
+# Ignore .flaskenv or other files with sensitive configurations
+.flaskenv
+
+# Ignore local database file if any
+*.db
+
+# Ignore logs
+*.log
+
